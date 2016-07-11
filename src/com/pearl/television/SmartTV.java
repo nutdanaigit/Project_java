@@ -14,5 +14,10 @@ public class SmartTV extends Television {
 
     }
 
+    public  void internet(){
+        //  ต่อกับอินเตอร์เน็ตได้
+
+    }
+
 
 }

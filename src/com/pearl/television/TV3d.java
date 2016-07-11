@@ -15,4 +15,9 @@ public class TV3d extends Television {
 
     }
 
+    public void threedee(){
+        //  ใช้ระบบ 3D
+
+    }
+
 }
