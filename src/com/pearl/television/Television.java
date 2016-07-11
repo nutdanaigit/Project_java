@@ -1,8 +1,6 @@
-package com.pearl.TV;
+package com.pearl.television;
 
 import java.awt.*;
-import java.security.PublicKey;
-import java.util.function.Function;
 
 /**
  * Created by Nutdanai on 7/11/2016.
